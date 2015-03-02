@@ -1,0 +1,56 @@
+.table{
+  height: 300px;
+  width: 300px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+.row {
+  height: 100px;
+  width: 300px;
+  /*border: 1px solid black;*/
+}
+.cell{
+  height: 100px;
+  width: 96px;
+  /*border: 1px solid black;*/
+  /*box-sizing: border-box;*/
+  float:left;
+  text-align:center;
+  font-size: 2em;
+}
+
+.winner{
+  background-color: #90EE90;
+}
+
+.loser{
+  background-color: #D0D0D0;
+}
+
+#one{
+  border-right: 2px solid black;
+}
+
+#three{
+  border-left: 2px solid black;
+}
+
+#four{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+#five{
+  border: 2px solid black;
+}
+#six{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+#seven{
+  border-right: 2px solid black;
+}
+
+#nine{
+  border-left: 2px solid black;
+}

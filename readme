@@ -1,0 +1,12 @@
+#### Break down
+
+* the grid at beginning
+* Make O appear when you click odd
+* Make X appear when you click even
+* icon centered
+* Styling for when a box is clicked
+* once a box is clicked, it is not waiting for a click
+* detect a winner
+* make styling for winner
+* when there is a winner, we are not waiting for clicks
+* when there is a tie, there is no more waiting for clicks
