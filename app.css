@@ -7,13 +7,10 @@
 .row {
   height: 100px;
   width: 300px;
-  /*border: 1px solid black;*/
 }
 .cell{
   height: 100px;
   width: 96px;
-  /*border: 1px solid black;*/
-  /*box-sizing: border-box;*/
   float:left;
   text-align:center;
   font-size: 2em;
